@@ -23,19 +23,14 @@ A Python automation tool that organizes files into categorized folders such as I
 ---
 
 
-## ▶️ How to Run
+## ▶️ How to Run (Using VS Code Terminal)
 
-1. Clone the repository:
+1. Open the project folder in VS Code  
+   - Click **File → Open Folder**  
+   - Select the **File Organizer** folder  
 
-```
-git clone https://github.com/YOUR_USERNAME/code-with-python.git
-```
-
-2. Navigate to the project folder:
-
-```
-cd "File Organizer"
-```
+2. Open Terminal in VS Code  
+   - Click **Terminal → New Terminal**  
 
 3. Run the script:
 
@@ -43,12 +38,13 @@ cd "File Organizer"
 python file_organizer.py
 ```
 
-4. Enter the folder path you want to organize (without quotes).
+OR (if python command doesn't work):
 
-Example:
 ```
-C:\Users\lenovo\Downloads
+py file_organizer.py
 ```
+
+4. Enter the folder path you want to organize (without quotes).
 
 ---
 
